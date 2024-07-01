@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace EonX\EasyRandom\Tests\Stub\HttpKernel;
+namespace EonX\EasyRandom\Tests\Stub\Kernel;
 
 use EonX\EasyRandom\Bundle\EasyRandomBundle;
 use Symfony\Component\Config\Loader\LoaderInterface;
